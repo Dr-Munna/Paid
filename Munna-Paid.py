@@ -1,2 +1,2 @@
-from Paid import R
-R()
+from Paid import Reg
+Reg()
